@@ -1,4 +1,3 @@
-
 document.addEventListener("DOMContentLoaded", () => {
     const tombol = document.getElementById("tombolKlik");
 
